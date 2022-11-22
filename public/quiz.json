@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "The marked price of a watch is Rs. 800. A shopkeeper gives two successive discounts and sells the watch at Rs. 612. If the first discount is 10%, the second discount is",
+        "options": [
+            "12%",
+            "20%",
+            "15%",
+            "10%"
+        ],
+        "answer": "15%"
+    },
+    {
+        "id": "02",
+        "question" : " A train moves with the speed of 180 km/hr. Its speed (in metres per second) is",
+        "options": [
+            "5",
+            "40",
+            "30",
+            "50"
+        ],
+        "answer": "50"
+    },
+    {
+        "id": "03",
+        "question" : " A car travelling with 5/7th of its actual speed covers 42km in 1hr. 40mins. 48 secs. Find the actual speed of the car.",
+        "options": [
+            "17(6/7) km/hr",
+            "35 km/hr",
+            "25 km/hr",
+            "30 km/hr"
+        ],
+        "answer": "35 km/hr"
+    },
+    {
+        "id": "04",
+        "question" : " A train 120 m long passes a telegraph post in 6 seconds. Find the speed of the train.",
+        "options": [
+            "60 km/hr",
+            "72.5 km/hr",
+            "80 km/hr",
+            "72 km/hr"
+        ],
+        "answer": "72 km/hr"
+    },
+    {
+        "id": "05",
+        "question" : "A train passes a telegraph post in 8 seconds and a 264 m long bridge in 20 seconds. What is the length of the train",
+        "options": [
+            "180 m",
+            "176 m",
+            "164 m",
+            "158 m"
+        ],
+        "answer": "176 m"
+    },
+    {
+        "id": "06",
+        "question" : " If ratio of the areas of two squares is 1:4, the ratio of their perimeters is",
+        "options": [
+            "1:2",
+            "1:4",
+            "1:6",
+            "1:8"
+        ],
+        "answer": "1:2"
+    },
+    {
+        "id": "07",
+        "question" : "The perimeter of a square is 48cm. The area of rectangle is 4cm2 less than the area of the square. If length of the rectangle is 14cm, then its perimeter is",
+        "options": [
+            "24cm",
+            "48cm",
+            "50cm",
+            "54cm"
+        ],
+        "answer": "48cm"
+    },
+    {
+        "id": "08",
+        "question" : "An equilateral triangle is described on the diagonal of a square. What is the ratio of the area of the triangle to that of the square?",
+        "options": [
+            "√3:2",
+            "2:√3",
+            "√3:4",
+            "4:√3"
+        ],
+        "answer": "√3:2"
+    },
+    {
+        "id": "09",
+        "question" : "The side and one of the diagonals of a rhombus are 13cm and 24cm respectively. The area of the rhombus (in sq.cm.) is",
+        "options": [
+            "156",
+            "240",
+            "120",
+            "130"
+        ],
+        "answer": "120"
+    },
+    {
+        "id": "10",
+        "question" : "A room is 6m long, 5m broad and 4m high. The maximum length of rod that can be kept in the room is",
+        "options": [
+            "√61 m",
+            "√16 m",
+            "√36 m",
+            "√77 m"
+        ],
+        "answer": "√77 m"
+    }
+]
